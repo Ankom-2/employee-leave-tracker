@@ -184,11 +184,17 @@ heroku run npm run migrate
 
 #### AWS
 
-See [AWS_DEPLOYMENT.md](./docs/AWS_DEPLOYMENT.md) for detailed AWS deployment instructions.
+For detailed AWS deployment instructions, refer to AWS documentation for deploying Node.js/Python applications on:
+- AWS Elastic Beanstalk
+- AWS ECS (Elastic Container Service)
+- AWS EC2 with Auto Scaling
 
 #### Azure
 
-See [AZURE_DEPLOYMENT.md](./docs/AZURE_DEPLOYMENT.md) for detailed Azure deployment instructions.
+For detailed Azure deployment instructions, refer to Azure documentation for deploying Node.js/Python applications on:
+- Azure App Service
+- Azure Container Instances
+- Azure Kubernetes Service (AKS)
 
 ## Configuration
 
@@ -398,7 +404,7 @@ npm restart
 
 If you encounter issues not covered in this guide:
 
-1. Check the [FAQ](./FAQ.md)
+1. Check the FAQ section in the [USER_GUIDE.md](./USER_GUIDE.md)
 2. Search existing [GitHub Issues](https://github.com/your-org/employee-leave-tracker/issues)
 3. Contact support: support@employeeleavetracker.com
 
