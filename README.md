@@ -22,7 +22,7 @@ This tracker helps team to:
 |Dhivya|Technical writer|AK002|
 |Anil|Technical writer|AK003|
 |Shyan|Technical writer|AK004|
-|Manjula|Technical Lead|AK005|
+|Sarthak|Technical Lead|AK005|
 
 ---
 
