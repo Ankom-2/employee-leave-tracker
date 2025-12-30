@@ -22,7 +22,7 @@ This tracker helps team to:
 |Dhivya|Technical writer|AK002|
 |Anil|Technical writer|AK003|
 |Shyan|Technical writer|AK004|
-|Sarthak|Technical Lead|AK005|
+|Mangalam|Technical Lead|AK005|
 
 ---
 
@@ -40,3 +40,8 @@ This tracker helps team to:
 1. Sick Leave
 2. Earn Leave
 3. Casual Leave
+
+---
+
+
+
